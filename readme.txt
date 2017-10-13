@@ -4,3 +4,5 @@ DevOps
 Scrum
 Metodologias Agiles
 Continuos
+Integracion
+Continuos Delivery
